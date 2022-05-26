@@ -1,0 +1,22 @@
+id: DCEA3BCEE
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-06T09:35:08+00:00'
+last_modified: '2022-05-26T11:00:19.981099+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    37b1:
+      image_group_id: I1PD95870
+      title: འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པའི་འགྲེལ་པ།
+      total_pages: 1853
+      order: 25
+      base_file: 37b1.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
